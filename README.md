@@ -11,7 +11,10 @@ Here will be the supported tools, specifications, demo source code, and updated 
 
 # 目录介绍
 
-Demo 提供参考的示例，目前包括ESP和Luat开发板示例
-Developer  开发者相关资料
-Operator 平台管理者相关资料
-SDK 为平台提供的数据封装协议， DiverseCloud/SDK/Diversecloudlib_tlv/General/diversecloudlib_tmpl_dev_v000.h 提供了平台开发模板定义的设备属性以及相应编码
+Demo 提供参考的示例，目前包括ESP和Luat开发板示例 
+
+Developer 开发者相关资料 
+
+Operator 平台管理者相关资料 SDK 为平台提供的数据封装协议，
+
+DiverseCloud/SDK/Diversecloudlib_tlv/General/diversecloudlib_tmpl_dev_v000.h 提供了平台开发模板定义的设备属性以及相应编码。开发者选择产品和设备后可以从这里找到对应信息。
