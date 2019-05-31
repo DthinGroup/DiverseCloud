@@ -13,6 +13,9 @@ Here will be the supported tools, specifications, demo source code, and updated 
 
 Demo 提供参考的示例，目前包括ESP和Luat开发板示例 
 
+进行数据封装前请对照TAG定义（DiverseCloud/Developer/开发模板数据TAG定义.pdf ），并且和DiverseCloud/SDK/Diversecloudlib_tlv/General/diversecloudlib_tmpl_dev_v000.h 进行对照
+
+
 Developer 开发者相关资料 
 
 Operator 平台管理者相关资料 
